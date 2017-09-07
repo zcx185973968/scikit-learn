@@ -1,5 +1,7 @@
 .. -*- mode: rst -*-
 
+Keras 是一个极简的、高度模块化的神经网络库，采用 Python（Python 2.7-3.5.）开发，能够运行在 TensorFlow 和 Theano 任一平台，好项目旨在完成深度学习的快速开发。keras 的几大特点：文档齐全、上手快速、纯 Python 编写、关注度高更新迅速、论坛活跃、就是运行速度不太快，当然，有的人就是不 care 速度
+
 |Travis|_ |AppVeyor|_ |Codecov|_ |CircleCI|_ |Python27|_ |Python35|_ |PyPi|_ |DOI|_
 
 .. |Travis| image:: https://api.travis-ci.org/scikit-learn/scikit-learn.svg?branch=master
